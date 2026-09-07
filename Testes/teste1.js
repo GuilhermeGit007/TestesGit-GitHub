@@ -4,4 +4,4 @@ let periodo;
 
 materia = document.querySelector("#materia");
 
-console.log(materia);
+console.log(materia.value);
