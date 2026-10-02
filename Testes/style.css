@@ -1,5 +1,8 @@
-.cabecao {
-    background-color: rgb(0, 0, 252);
-    color: white;
-    padding: 20px;
+.content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 20px;
+    flex-wrap: wrap;
+    background-color: #a50000;
 }
